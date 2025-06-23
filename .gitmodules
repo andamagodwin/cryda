@@ -1,3 +1,6 @@
 [submodule "cryda-mobile/cryda"]
 	path = cryda-mobile/cryda
 	url = git@github.com:andamagodwin/cryda-app.git
+[submodule "cryda-landing"]
+	path = cryda-landing
+	url = git@github.com:andamagodwin/cryda-landing-page.git
