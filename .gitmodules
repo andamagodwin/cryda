@@ -4,3 +4,6 @@
 [submodule "cryda-landing"]
 	path = cryda-landing
 	url = git@github.com:andamagodwin/cryda-landing-page.git
+[submodule "expo-starter"]
+	path = expo-starter
+	url = https://github.com/andamagodwin/cryda3
